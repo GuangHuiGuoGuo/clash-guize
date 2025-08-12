@@ -1,12 +1,14 @@
 # 自用直连规则集，按需添加
-edge.microsoft.com
-microsoft.com
-guanghuiest.top
-softmany.com
-widgets.link
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,guanghuiest.top
+DOMAIN-SUFFIX,softmany.com
+DOMAIN-SUFFIX,widgets.link
 # 常用 iTunes / AppStore CDN 强制直连，加速下载，# Siri 直连，# Push 可选直连，低延迟
-itunes.apple.com
-iosapps.itunes.apple.com
-appstore.apple.com
-guzzoni.apple.com
-push.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,appstore.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,push.apple.com
+SRC-IP-CIDR,192.168.30.190/32
+SRC-IP-CIDR,192.168.30.191/32
