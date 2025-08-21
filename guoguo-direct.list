@@ -1,6 +1,7 @@
 # 自用直连规则集，按需添加
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,emby.guanghuiest.top
 DOMAIN-SUFFIX,guanghuiest.top
 DOMAIN-SUFFIX,softmany.com
 DOMAIN-SUFFIX,widgets.link
