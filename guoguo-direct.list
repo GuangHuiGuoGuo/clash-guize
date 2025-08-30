@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,appstore.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,push.apple.com
-SRC-IP-CIDR,192.168.30.190/32    # 顾建华iphone xr
-SRC-IP-CIDR,192.168.30.191/32    # 顾建华iphone 13
-SRC-IP-CIDR,192.168.30.144/32    # 米家智能插座3
-SRC-IP-CIDR,192.168.30.205/32    # YEELIGHT屏幕挂灯
+SRC-IP-CIDR,192.168.30.190/32    #顾建华iphone xr
+SRC-IP-CIDR,192.168.30.191/32    #顾建华iphone 13
+SRC-IP-CIDR,192.168.30.144/32    #米家智能插座3
+SRC-IP-CIDR,192.168.30.205/32    #YEELIGHT屏幕挂灯
