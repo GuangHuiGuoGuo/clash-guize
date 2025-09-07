@@ -1,4 +1,8 @@
 # 自用直连规则集，按需添加
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,guanghuiest.top
