@@ -1,4 +1,13 @@
 # 自用直连规则集，按需添加
+DOMAIN-SUFFIX,baidu.com,DIRECT
+DOMAIN-SUFFIX,baidubce.com,DIRECT
+DOMAIN-SUFFIX,bdstatic.com,DIRECT
+DOMAIN-SUFFIX,baidupcs.com,DIRECT
+DOMAIN-SUFFIX,bcebos.com,DIRECT
+DOMAIN-SUFFIX,passport.baidu.com,DIRECT
+DOMAIN-SUFFIX,wappass.baidu.com,DIRECT
+DOMAIN-SUFFIX,dlnel.com,DIRECT
+DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
 DOMAIN-SUFFIX,edge.microsoft.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,guanghuiest.top
