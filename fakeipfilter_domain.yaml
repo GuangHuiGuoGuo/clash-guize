@@ -1,0 +1,21 @@
+payload:
+  # ===== 局域网 / 本机 =====
+  - DOMAIN,localhost
+  - DOMAIN-SUFFIX,lan
+  - DOMAIN-SUFFIX,local
+
+  # ===== 系统检测 / 校时 =====
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-REGEX,^time\.[^.]+\.com
+  - DOMAIN-REGEX,^ntp\.[^.]+\.com
+
+  # ===== BT / P2P（重点）=====
+  - DOMAIN-SUFFIX,tracker
+  - DOMAIN-SUFFIX,torrent
+  - DOMAIN-SUFFIX,announce
+  - DOMAIN-SUFFIX,bt
+  - DOMAIN-SUFFIX,bittorrent
+  - DOMAIN-SUFFIX,peer
+  - DOMAIN-SUFFIX,seed
+  
