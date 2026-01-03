@@ -11,7 +11,6 @@ payload:
   - DOMAIN-REGEX,^ntp\.[^.]+\.com
 
   # ===== BT / P2P（重点）=====
-payload:
   # 使用关键字匹配，只要域名包含这些词，就强制返回真实 IP
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,announce
