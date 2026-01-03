@@ -18,6 +18,14 @@ DOMAIN-SUFFIX,guanghuiest.top
 DOMAIN-SUFFIX,softmany.com
 DOMAIN-SUFFIX,widgets.link
 DOMAIN-SUFFIX,istoreos.com
+
+# PT站点
+DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,peer
+DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,ptzone.xyz
 # 常用 iTunes / AppStore CDN 强制直连，加速下载，# Siri 直连，# Push 可选直连，低延迟
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
@@ -29,3 +37,8 @@ SRC-IP-CIDR,192.168.30.123/32
 SRC-IP-CIDR,192.168.30.213/32
 SRC-IP-CIDR,192.168.30.144/32
 SRC-IP-CIDR,192.168.30.205/32
+
+
+
+
+
