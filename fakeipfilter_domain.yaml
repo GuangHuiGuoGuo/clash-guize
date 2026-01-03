@@ -11,11 +11,14 @@ payload:
   - DOMAIN-REGEX,^ntp\.[^.]+\.com
 
   # ===== BT / P2P（重点）=====
-  - DOMAIN-SUFFIX,tracker
-  - DOMAIN-SUFFIX,torrent
-  - DOMAIN-SUFFIX,announce
-  - DOMAIN-SUFFIX,bt
-  - DOMAIN-SUFFIX,bittorrent
-  - DOMAIN-SUFFIX,peer
-  - DOMAIN-SUFFIX,seed
+payload:
+  # 使用关键字匹配，只要域名包含这些词，就强制返回真实 IP
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,peer
+  - DOMAIN-KEYWORD,bt_
   
+  # 常见的公共 Tracker 后缀
+  - DOMAIN-SUFFIX,bittorrent.com
+  - DOMAIN-SUFFIX,opentrackr.org
