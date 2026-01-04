@@ -23,7 +23,6 @@ DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,peer
 # 常用 iTunes / AppStore CDN 强制直连，加速下载，# Siri 直连，# Push 可选直连，低延迟
 DOMAIN-SUFFIX,itunes.apple.com
