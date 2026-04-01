@@ -19,7 +19,11 @@ DOMAIN-SUFFIX,guanghuiest.top
 DOMAIN-SUFFIX,softmany.com
 DOMAIN-SUFFIX,widgets.link
 DOMAIN-SUFFIX,istoreos.com
-
+# 磁力狗
+DOMAIN-SUFFIX,clg37.xyz
+DOMAIN-SUFFIX,clg.im
+DOMAIN-SUFFIX,clg.one
+DOMAIN-SUFFIX,ciligou.net
 # PT站点
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
