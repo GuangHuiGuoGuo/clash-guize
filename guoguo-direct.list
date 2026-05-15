@@ -1,4 +1,5 @@
 # 自用直连规则集，按需添加。
+DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,linkcube.org
