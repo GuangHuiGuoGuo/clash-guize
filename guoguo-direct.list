@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,1024txt.com
 # 机场订阅
 DOMAIN-SUFFIX,newsntp.com
 DOMAIN-SUFFIX,sub1.sntp.me
+DOMAIN-SUFFIX,aliyuncs-file.com
 # 磁力狗
 DOMAIN-SUFFIX,clg37.xyz
 DOMAIN-SUFFIX,clg.im
