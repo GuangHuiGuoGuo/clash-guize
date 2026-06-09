@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,softmany.com
 DOMAIN-SUFFIX,widgets.link
 DOMAIN-SUFFIX,irm.avlabo.com
 DOMAIN-SUFFIX,1024txt.com
+# IPTV
+DOMAIN-SUFFIX,ottiptv.cc
 # 机场订阅
 DOMAIN-SUFFIX,newsntp.com
 DOMAIN-SUFFIX,sub1.sntp.me
