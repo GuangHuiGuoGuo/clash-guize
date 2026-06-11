@@ -52,8 +52,8 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
 #   顾建华iphone
-SRC-IP-CIDR,192.168.30.129/32
-SRC-IP-CIDR,192.168.30.224/32
+SRC-IP-CIDR,192.168.30.243/32
+SRC-IP-CIDR,192.168.30.179/32
 # iStoreOS
 SRC-IP-CIDR,192.168.30.3/32
 # 智能家居
