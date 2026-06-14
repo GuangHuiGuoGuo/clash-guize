@@ -1,4 +1,5 @@
 # 自用直连规则集，按需添加。
+DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,outlook.com
