@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,gcore.jsdelivr.net
 DOMAIN-SUFFIX,epg.zsdc.eu.org
 DOMAIN-SUFFIX,sportzfytv.com
+DOMAIN-KEYWORD,sportzfy
 # 机场订阅
 DOMAIN-SUFFIX,newsntp.com
 DOMAIN-SUFFIX,sub1.sntp.me
