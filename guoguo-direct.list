@@ -1,4 +1,8 @@
 # 自用直连规则集，按需添加。
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,api.day.app
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,istoreos.com
