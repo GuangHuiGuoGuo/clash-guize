@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,appstore.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,push.apple.com
+＃DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
