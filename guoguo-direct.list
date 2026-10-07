@@ -4,11 +4,9 @@ DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,api.day.app
-DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,linkcube.org
-DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,guanghuiest.top
 DOMAIN-SUFFIX,baidubce.com
@@ -54,7 +52,6 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
 DOMAIN-SUFFIX,appstore.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
