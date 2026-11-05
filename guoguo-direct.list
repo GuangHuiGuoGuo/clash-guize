@@ -1,5 +1,6 @@
 # 自用直连规则集，按需添加。
-DOMAIN-SUFFIXknights-visual.com
+DOMAIN-SUFFIX,zenithgrid.co
+DOMAIN-SUFFIX,knights-visual.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.eu
