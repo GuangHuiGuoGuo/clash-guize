@@ -27,6 +27,12 @@ DOMAIN-SUFFIX,softmany.com
 DOMAIN-SUFFIX,widgets.link
 DOMAIN-SUFFIX,1024txt.com
 DOMAIN-SUFFIX,1080xin.com
+# 115 litel-SeedHub影视
+DOMAIN-SUFFIX,sidhub.cc
+DOMAIN-SUFFIX,seedog.cc
+DOMAIN-SUFFIX,seeduck.cc
+DOMAIN-SUFFIX,hubdog.cc
+DOMAIN-SUFFIX,seedhub.cc
 # IPTV、体育直播
 DOMAIN-SUFFIX,itv.cmvideo.cn,DIRECT
 DOMAIN-SUFFIX,chinamobile.com,DIRECT
